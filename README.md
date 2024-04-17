@@ -25,7 +25,7 @@
   Introduction
 </h2>
 
-<p align="center">Masa is a decentralized AI data and LLM network that empowers developers to build innovative AI applications leveraging user-consented and user-aggregated data, as well as open-source language models. This repository aims to provide developers with practical examples and inspiration to kickstart their AI projects using Masa's powerful tools and resources.</p>
+<p align="center">Masa is a decentralized AI data and LLM network that empowers developers to build innovative AI applications leveraging user-consented and user-aggregated data, as well as open-source decentralized LLMs. This repository aims to provide developers with practical examples and inspiration to kickstart their AI projects using Masa's powerful tools and resources.</p>
 
 <!-- Getting Started -->
 <h2 align="center" id="getting-started">
