@@ -53,7 +53,7 @@
   <li>Fork this repository and create a new branch for your submission.</li>
   <li>Develop your AI agent project using Masa's decentralized AI data and LLM stack.</li>
   <li>Submit a pull request to the <code>genesis-launch</code> folder, including a detailed README file describing your project, its features, and how it leverages Masa's ecosystem.</li>
-  <li>Join the Masa AI Developer Community on <a href="https://discord.gg/masa-ai">Discord</a> to connect with other participants, seek guidance, and stay updated on the latest developments.</li>
+  <li>Join the Masa AI Developer Community on <a href="https://discord.com/invite/masafinance">Discord</a> to connect with other participants, seek guidance, and stay updated on the latest developments.</li>
 </ol>
 
 <p align="center">Submissions will be evaluated based on creativity, technical excellence, and the effective utilization of Masa's decentralized AI resources. Winners will be announced shortly after the sprint concludes.</p>
@@ -65,7 +65,7 @@
 
 <p align="center">The <code>examples</code> directory contains a wide range of example projects demonstrating various use cases and integrations with Masa's decentralized AI ecosystem. Each example project resides in its own subdirectory and includes a detailed README file with instructions on how to set up and run the project.</p>
 
-<p align="center">Feel free to explore the examples, learn from the code, and adapt them to suit your own AI projects. If you have any questions or need assistance, don't hesitate to reach out to the Masa AI Developer Community on <a href="https://discord.gg/masa-ai">Discord</a>.</p>
+<p align="center">Feel free to explore the examples, learn from the code, and adapt them to suit your own AI projects. If you have any questions or need assistance, don't hesitate to reach out to the Masa AI Developer Community on <a href="https://discord.com/invite/masafinance">Discord</a>.</p>
 
 <!-- Contributing -->
 <h2 align="center" id="contributing">
@@ -90,6 +90,6 @@
 
 <p align="center">The Masa AI Examples Repository is released under the <a href="LICENSE">MIT License</a>. By contributing to this repository, you agree to license your contributions under the same license.</p>
 
-<p align="center">If you have any further questions or need assistance, please reach out to us through the <a href="https://discord.gg/masa-ai">Masa AI Developer Community</a> or visit our <a href="https://www.masa.ai/developers">developer hub</a> for more resources and documentation.</p>
+<p align="center">If you have any further questions or need assistance, please reach out to us through the <a href="https://discord.gg/masafinance">Masa AI Developer Community</a> or visit our <a href="https://www.masa.ai/developers">developer hub</a> for more resources and documentation.</p>
 
 <p align="center">Happy coding and building with Masa AI!</p>
