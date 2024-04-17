@@ -34,7 +34,7 @@
 
 <ol>
   <li>Clone the repository to your local machine:
-    <pre><code>git clone https://github.com/masa-finance/masa-examples.git</code></pre></li>
+    <pre><code>git clone https://github.com/masa-finance/masa-ai-examples.git</code></pre></li>
   <li>Install the necessary dependencies for the example projects you wish to explore. Each example project will have its own set of dependencies and instructions in its respective directory.</li>
   <li>Obtain the required API keys and credentials to access Masa's decentralized AI data and LLM stack. Refer to the <a href="https://www.masa.ai/developers">Masa Developer Documentation</a> for more information on how to obtain these credentials.</li>
   <li>Explore the example projects in the repository and start building your own AI applications powered by Masa's decentralized ecosystem.</li>
