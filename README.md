@@ -21,14 +21,14 @@
 </p>
 
 <!-- Introduction -->
-<h2 align="center">
+<h2 align="center" id="introduction">
   Introduction
 </h2>
 
 <p align="center">Masa is a decentralized AI data and LLM network that empowers developers to build innovative AI applications leveraging user-consented and user-aggregated data, as well as open-source language models. This repository aims to provide developers with practical examples and inspiration to kickstart their AI projects using Masa's powerful tools and resources.</p>
 
 <!-- Getting Started -->
-<h2 align="center">
+<h2 align="center" id="getting-started">
   Getting Started
 </h2>
 
@@ -41,7 +41,7 @@
 </ol>
 
 <!-- Genesis Launch -->
-<h2 align="center">
+<h2 align="center" id="genesis-launch">
   Genesis Launch
 </h2>
 
@@ -59,7 +59,7 @@
 <p align="center">Submissions will be evaluated based on creativity, technical excellence, and the effective utilization of Masa's decentralized AI resources. Winners will be announced shortly after the sprint concludes.</p>
 
 <!-- Examples -->
-<h2 align="center">
+<h2 align="center" id="examples">
   Examples
 </h2>
 
@@ -68,7 +68,7 @@
 <p align="center">Feel free to explore the examples, learn from the code, and adapt them to suit your own AI projects. If you have any questions or need assistance, don't hesitate to reach out to the Masa AI Developer Community on <a href="https://discord.gg/masa-ai">Discord</a>.</p>
 
 <!-- Contributing -->
-<h2 align="center">
+<h2 align="center" id="contributing">
   Contributing
 </h2>
 
@@ -84,7 +84,7 @@
 <p align="center">Your contribution will be reviewed by the Masa AI team, and once approved, it will be merged into the main repository.</p>
 
 <!-- License -->
-<h2 align="center">
+<h2 align="center" id="license">
   License
 </h2>
 
